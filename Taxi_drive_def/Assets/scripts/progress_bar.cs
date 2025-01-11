@@ -39,6 +39,23 @@ public class ProgressBarController : MonoBehaviour
         }
     }
 
+    public void IncreasePatience(float amount)
+    {
+        if (isDecreasing && currentProgress < 0.6f)
+        {
+            // Incrementamos el valor de la barra de paciencia 
+            currentProgress += amount;
+            progressBar.value = currentProgress;
+        }
+
+        if (isDecreasing && currentProgress >= 0.6f)
+        {
+            // Incrementamos el valor de la barra de paciencia 
+            currentProgress = 1f;
+            progressBar.value = currentProgress;
+        }
+    }
+
     void Update()
     {
         if (!isDecreasing)

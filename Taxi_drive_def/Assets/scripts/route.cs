@@ -143,7 +143,7 @@ public class RouteGenerator : MonoBehaviour
     }
 
     // Función que genera una posición aleatoria dentro del área de la carretera
-    Vector3 GetRandomPointInArea()
+    public Vector3 GetRandomPointInArea()
     {
         float x = Random.Range(roadAreaMin.x, roadAreaMax.x);
         float z = Random.Range(roadAreaMin.z, roadAreaMax.z);  // La componente Y se mantiene constante para trabajar en 2D

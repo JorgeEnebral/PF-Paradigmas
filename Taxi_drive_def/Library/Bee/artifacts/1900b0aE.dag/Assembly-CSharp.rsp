@@ -366,6 +366,7 @@
 "Assets/scripts/camera_controller.cs"
 "Assets/scripts/colliders.cs"
 "Assets/scripts/gamescore.cs"
+"Assets/scripts/PatienceObjectSpawner.cs"
 "Assets/scripts/PoliceAlert.cs"
 "Assets/scripts/PoliceCarController.cs"
 "Assets/scripts/PoliceCarFactory.cs"
