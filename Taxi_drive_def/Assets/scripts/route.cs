@@ -62,6 +62,9 @@ public class RouteGenerator : MonoBehaviour
             // El taxi ha llegado al pasajero, ahora comienza el viaje
             journeyStarted = true;
             isPickingUp = false;
+            // Creamos un marcador rojo para el destino
+            destinationMarker = Instantiate(destinationMarkerPrefab, routePoints[1], Quaternion.identity);
+            destinationMarker.layer = LayerMask.NameToLayer(minimapLayerName); // Poner en la capa del minimapa
             progressBarController.StartDecreasingPatience();
             if (pickupMarker != null) Destroy(pickupMarker);
             // Cambiar la ruta al destino final (mostrado en verde)
@@ -78,6 +81,7 @@ public class RouteGenerator : MonoBehaviour
             gameScoreController.CompleteJourney(patienceRemaining);
             progressBarController.ResetPatience();
             GenerateRoute(); // Crear la siguiente ruta (recogida + destino)
+
             policeCarFactory.RemovePoliceCar();
         }
 
@@ -128,9 +132,7 @@ public class RouteGenerator : MonoBehaviour
         pickupMarker = Instantiate(pickupMarkerPrefab, routePoints[0], Quaternion.identity);
         pickupMarker.layer = LayerMask.NameToLayer(minimapLayerName); // Poner en la capa del minimapa
 
-        // Creamos un marcador rojo para el destino
-        destinationMarker = Instantiate(destinationMarkerPrefab, routePoints[1], Quaternion.identity);
-        destinationMarker.layer = LayerMask.NameToLayer(minimapLayerName); // Poner en la capa del minimapa
+        
 
         // Dibujamos la ruta en el minimapa
         //UpdateMinimapRoute(); // Actualizamos la ruta en el minimapa con LineRenderer

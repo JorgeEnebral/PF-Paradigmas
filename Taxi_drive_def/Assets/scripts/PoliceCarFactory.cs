@@ -9,7 +9,7 @@ public class PoliceCarFactory : MonoBehaviour
     private GameObject spawnedPoliceCar; // Referencia al coche de policía instanciado
     public PoliceAlertController alertController;
     // Coordenadas fijas para el punto de aparición
-    private Vector3 policeSpawnPosition = new Vector3(38.13f, 0.14f, -69.97245f);
+    private Vector3 policeSpawnPosition = new Vector3(9.59f, 0.14f, -13.2f);
 
     void Update()
     {

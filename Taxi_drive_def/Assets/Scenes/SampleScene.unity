@@ -50600,7 +50600,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   policeCarPrefab: {fileID: 4164269415113723937, guid: 293fcc06e923efe4c9a7b8ecc5aa88e6, type: 3}
   taxi: {fileID: 1068881235}
-  speedThreshold: 20
+  speedThreshold: 15
   alertController: {fileID: 1806904516}
 --- !u!4 &1106055994
 Transform:
@@ -63305,7 +63305,7 @@ MonoBehaviour:
   roadAreaMin: {x: -81.2, y: 1, z: -75.5}
   roadAreaMax: {x: 103.6, y: 1, z: 137.6}
   minimapRoute: {fileID: 1007516153}
-  pickupMarkerPrefab: {fileID: 1520854686}
+  pickupMarkerPrefab: {fileID: 913845681951795218, guid: 2435736d6adca23458edd7c80c901e3e, type: 3}
   destinationMarkerPrefab: {fileID: 2042289761}
   routePoints: []
   isPickingUp: 1
