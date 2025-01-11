@@ -13,7 +13,7 @@ public class CarController : MonoBehaviour
     public float motorPower;
     public float brakePower;
     public float slipAngle;
-    private float speed;
+    public float speed;
     public AnimationCurve steeringCurve;
 
 
@@ -117,6 +117,11 @@ public class CarController : MonoBehaviour
         coll.GetWorldPose(out position, out quat);
         wheelMesh.transform.position = position;
         wheelMesh.transform.rotation = quat;
+    }
+
+    public float GetSpeed()
+    {
+        return playerRB.velocity.magnitude; 
     }
 }
 [System.Serializable]
