@@ -57,7 +57,7 @@ public class RouteGenerator : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            GameManager.GameToPause();
+            GameManagerScript.GameToPause();
         }
 
         Vector3 taxiPosition = taxi.transform.position;

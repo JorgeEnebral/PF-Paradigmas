@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 400000}
   - component: {fileID: 3300000}
   - component: {fileID: 2300000}
-  - component: {fileID: 8519880636218934831}
+  - component: {fileID: 6070929364952255384}
   - component: {fileID: 7699115161600727854}
   m_Layer: 0
   m_Name: GameManagerPrefab
@@ -85,7 +85,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &8519880636218934831
+--- !u!114 &6070929364952255384
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

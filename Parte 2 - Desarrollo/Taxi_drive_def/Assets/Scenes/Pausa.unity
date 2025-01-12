@@ -433,7 +433,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 8519880636218934831, guid: 3ac3299d26406544f800017ef5be19ca, type: 3}
+      - m_Target: {fileID: 6070929364952255384, guid: 3ac3299d26406544f800017ef5be19ca, type: 3}
         m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
         m_MethodName: PausaToMainMenu
         m_Mode: 1
@@ -737,7 +737,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 8519880636218934831, guid: 3ac3299d26406544f800017ef5be19ca, type: 3}
+      - m_Target: {fileID: 6070929364952255384, guid: 3ac3299d26406544f800017ef5be19ca, type: 3}
         m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
         m_MethodName: PausaToGame
         m_Mode: 1

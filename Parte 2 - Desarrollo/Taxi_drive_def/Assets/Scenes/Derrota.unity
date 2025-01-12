@@ -584,7 +584,7 @@ MonoBehaviour:
     m_NormalColor: {r: 1, g: 0.9932412, b: 0, a: 1}
     m_HighlightedColor: {r: 0.82641506, g: 0.7855838, b: 0, a: 1}
     m_PressedColor: {r: 1, g: 0.9595474, b: 0.36037737, a: 1}
-    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_SelectedColor: {r: 1, g: 0.9670705, b: 0.028301716, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
@@ -604,7 +604,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 8519880636218934831, guid: 3ac3299d26406544f800017ef5be19ca, type: 3}
+      - m_Target: {fileID: 6070929364952255384, guid: 3ac3299d26406544f800017ef5be19ca, type: 3}
         m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
         m_MethodName: ExitToMainMenu
         m_Mode: 1

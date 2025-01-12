@@ -38,7 +38,7 @@ public class PoliceCarController : MonoBehaviour
             if (distanceToPlayer <= catchDistance)
             {
                 Destroy(gameObject); // Termina el juego si está a una distancia de atrapar
-                GameManager.LoadDefeat();
+                GameManagerScript.LoadDefeat();
             }
         }
     }
