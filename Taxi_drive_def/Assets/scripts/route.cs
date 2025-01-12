@@ -55,6 +55,11 @@ public class RouteGenerator : MonoBehaviour
 
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            GameManager.GameToPause();
+        }
+
         Vector3 taxiPosition = taxi.transform.position;
         // Si el coche llega a la posición de inicio, comenzamos la siguiente ruta
         if (!journeyStarted && Vector3.Distance(taxiPosition, routePoints[0]) < 5f)

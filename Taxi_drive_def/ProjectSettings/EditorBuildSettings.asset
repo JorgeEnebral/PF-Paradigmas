@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Derrota.unity
     guid: b30b310a6c026854ca5a760829b5e33b
+  - enabled: 1
+    path: Assets/Scenes/Pausa.unity
+    guid: 4af761cdf659dd74bb36accb92310f72
   m_configObjects: {}

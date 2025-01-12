@@ -37,20 +37,11 @@ public class PoliceCarController : MonoBehaviour
             float distanceToPlayer = Vector3.Distance(transform.position, player.position);
             if (distanceToPlayer <= catchDistance)
             {
-                EndGame(); // Termina el juego si está a una distancia de atrapar
+                Destroy(gameObject); // Termina el juego si está a una distancia de atrapar
+                GameManager.LoadDefeat();
             }
         }
     }
-
-    private void EndGame()
-    {
-        Destroy(gameObject);
-        Debug.Log("¡Te atrapó el coche de policía!");
-        // Cambiar a la escena del menú Game Over
-        SceneManagerScript.LoadDefeatScene();
-    }
-
-
 }
 
 

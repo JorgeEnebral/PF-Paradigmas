@@ -8,6 +8,7 @@ public class GameManager : MonoBehaviour
 
     public static GameManager Instance;
     public GameObject gameManagerPrefab;
+
     private void Awake()
     {
         // Asegurar que solo exista un GameManager (Singleton)
@@ -33,12 +34,34 @@ public class GameManager : MonoBehaviour
     public void MainMenuToGame()
     {
         Debug.Log("Entrando al juego");
-        SceneManagerScript.LoadGameScene(); // Cargar la escena 0
+        SceneManagerScript.LoadGameScene();
+    }
+    public static void LoadDefeat()
+    {
+        Debug.Log("¡Te atrapó el coche de policía!");
+        SceneManagerScript.LoadDefeatScene();
     }
 
     public void ExitToMainMenu()
     {
         Debug.Log("Saliendo al menú principal");
-        SceneManagerScript.LoadMainMenu(); // Cargar la escena 2
+        SceneManagerScript.LoadMainMenu();
     }
+
+    public void PausaToMainMenu()
+    {
+        Debug.Log("Saliendo al menú principal");
+        SceneManagerScript.LoadMainMenu();
+    }
+    public void PausaToGame()
+    {
+        Debug.Log("Juego Reanudado");
+        SceneManagerScript.LoadGameScene();
+    }
+    public static void GameToPause()
+    {
+        Debug.Log("Juego Pausado");
+        SceneManagerScript.LoadPauseScene();
+    }
+
 }
