@@ -1,49 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\",
+  "WorkspaceRootPath": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\assets\\scripts\\progress_bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\progress_bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\assets\\scripts\\policecarfactory1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\policecarfactory1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\assets\\scripts\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\assets\\scripts\\policecarcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\policecarcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|c:\\users\\usuario\\desktop\\3imat\\paradigmas\\pf-paradigmas\\taxi_drive_def\\assets\\denysalmaral\\citypeople-free\\scripts\\citypeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\denysalmaral\\citypeople-free\\scripts\\citypeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\assets\\scripts\\policecarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\policecarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\assets\\scripts\\gamescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\assets\\scripts\\gamescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\proyecto_cov\\TaxiDrive\\Assets\\Scripts\\MinimapGPS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\assets\\scripts\\patienceobjectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patienceobjectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\assets\\scripts\\policealert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\assets\\scripts\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\assets\\scripts\\policealert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\policealert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\assets\\scripts\\policecarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\policecarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\assets\\scripts\\policecarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\policecarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\assets\\scripts\\taxi_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\assets\\scripts\\taxi_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\taxi_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\assets\\scripts\\camera_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\assets\\scripts\\progress_bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\progress_bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\assets\\scripts\\colliders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colliders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\assets\\scripts\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17C15F2-A0E8-BB71-5A97-7D5A8F865CD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,73 +62,132 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CityPeople.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\DenysAlmaral\\CityPeople-FREE\\Scripts\\CityPeople.cs",
-              "RelativeDocumentMoniker": "Assets\\DenysAlmaral\\CityPeople-FREE\\Scripts\\CityPeople.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\DenysAlmaral\\CityPeople-FREE\\Scripts\\CityPeople.cs",
-              "RelativeToolTip": "Assets\\DenysAlmaral\\CityPeople-FREE\\Scripts\\CityPeople.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "PoliceCarController1.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\PoliceCarController1.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PoliceCarController1.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\PoliceCarController1.cs",
+              "RelativeToolTip": "Assets\\scripts\\PoliceCarController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T20:46:26.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T22:40:20.711Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "PoliceAlert.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\PoliceAlert.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\PoliceAlert.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\PoliceAlert.cs",
-              "RelativeToolTip": "Assets\\scripts\\PoliceAlert.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T17:37:37.108Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "PoliceCarFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\PoliceCarFactory.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\PoliceCarFactory.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\PoliceCarFactory.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\PoliceCarFactory.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\PoliceCarFactory.cs",
               "RelativeToolTip": "Assets\\scripts\\PoliceCarFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T16:26:03.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PoliceCarController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\PoliceCarController.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\PoliceCarController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\PoliceCarController.cs",
-              "RelativeToolTip": "Assets\\scripts\\PoliceCarController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwDQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T12:04:22.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "progress_bar.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\progress_bar.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\progress_bar.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\progress_bar.cs",
-              "RelativeToolTip": "Assets\\scripts\\progress_bar.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T00:08:54.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T22:40:20.05Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "route.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\route.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\route.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\route.cs",
+              "RelativeToolTip": "Assets\\scripts\\route.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:40:19.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "taxi_controller.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\taxi_controller.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\taxi_controller.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\taxi_controller.cs",
+              "RelativeToolTip": "Assets\\scripts\\taxi_controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:40:19.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PoliceCarFactory1.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\PoliceCarFactory1.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PoliceCarFactory1.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\PoliceCarFactory1.cs",
+              "RelativeToolTip": "Assets\\scripts\\PoliceCarFactory1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:40:18.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "progress_bar.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\progress_bar.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\progress_bar.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\progress_bar.cs",
+              "RelativeToolTip": "Assets\\scripts\\progress_bar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:40:18.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SoundManager.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\SoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:40:18.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SceneManager.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\SceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneManager.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\SceneManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:40:17.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PoliceAlert.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\PoliceAlert.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PoliceAlert.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\PoliceAlert.cs",
+              "RelativeToolTip": "Assets\\scripts\\PoliceAlert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:39:48.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:33:48.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "gamescore.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\gamescore.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\gamescore.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\gamescore.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\gamescore.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\gamescore.cs",
               "RelativeToolTip": "Assets\\scripts\\gamescore.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,64 +195,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MinimapGPS.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\proyecto_cov\\TaxiDrive\\Assets\\Scripts\\MinimapGPS.cs",
-              "RelativeDocumentMoniker": "..\\..\\proyecto_cov\\TaxiDrive\\Assets\\Scripts\\MinimapGPS.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\proyecto_cov\\TaxiDrive\\Assets\\Scripts\\MinimapGPS.cs",
-              "RelativeToolTip": "..\\..\\proyecto_cov\\TaxiDrive\\Assets\\Scripts\\MinimapGPS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "PatienceObjectSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\PatienceObjectSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PatienceObjectSpawner.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero_grado\\5-Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\PatienceObjectSpawner.cs",
+              "RelativeToolTip": "Assets\\scripts\\PatienceObjectSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T18:31:24.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "route.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\route.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\route.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\route.cs",
-              "RelativeToolTip": "Assets\\scripts\\route.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAswAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T18:32:58.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "taxi_controller.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\taxi_controller.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\taxi_controller.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\taxi_controller.cs",
-              "RelativeToolTip": "Assets\\scripts\\taxi_controller.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAowA8AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T14:51:17.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "colliders.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\colliders.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\colliders.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\colliders.cs",
-              "RelativeToolTip": "Assets\\scripts\\colliders.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T17:07:28.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "camera_controller.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\camera_controller.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\camera_controller.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3IMAT\\Paradigmas\\PF-Paradigmas\\Taxi_drive_def\\Assets\\scripts\\camera_controller.cs",
-              "RelativeToolTip": "Assets\\scripts\\camera_controller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:36:05.459Z"
+              "WhenOpened": "2025-01-11T22:33:53.006Z"
             }
           ]
         }

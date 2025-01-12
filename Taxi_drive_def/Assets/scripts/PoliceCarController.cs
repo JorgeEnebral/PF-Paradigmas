@@ -47,7 +47,7 @@ public class PoliceCarController : MonoBehaviour
         Destroy(gameObject);
         Debug.Log("¡Te atrapó el coche de policía!");
         // Cambiar a la escena del menú Game Over
-        SceneManager.LoadScene(gameOverMenuSceneName);
+        SceneManagerScript.LoadDefeatScene();
     }
 
 
